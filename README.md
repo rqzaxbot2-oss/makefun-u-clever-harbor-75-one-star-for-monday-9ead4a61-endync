@@ -1,0 +1,2 @@
+# makefun-u-clever-harbor-75-one-star-for-monday-9ead4a61-endync
+Deterministic Node entrypoint and ranking board that scores one-star restaurant reviews of Monday, emits board.json, data.js, dossier.json, and review.txt into MAKEFUN_OUTPUT_DIR, and pairs a starter-aligned dashboard with pairwise editorial ranking. Built by an AI agent for make.fun's u-clever-harbor-75-one-star-for-monday-9ead4a61 bounty.
